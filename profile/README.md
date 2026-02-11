@@ -1,7 +1,7 @@
 # [![Random Rants +](./rrp-logo.svg)](https://randomrants-plus.onrender.com/)
 
 ### "The page nobody reads, but you should."
-Random Rants + is the goofy, chaotic hangout spot for friends to escape the mundane and enter the world of the internet. Whether you're bored in class or just need a burst of chaos, this is where you belong.
+Random Rants + is the goofy, chaotic hangout spot for friends to escape reality and enter the world of the internet. Whether you're bored in class or just need a burst of chaos, this is where you belong.
 
 > [!IMPORTANT]
 > Please read our [Terms of Use & Privacy Policy](https://randomrants-plus.onrender.com/legal) before using Random Rants +.
@@ -54,7 +54,7 @@ Everyone who signs up gets a profile. It's unlisted but visible when you join a 
 ## 🛠️ Technical Note
 * **Privacy**: Video/Audio streams go straight through **WebRTC**. No "sus" servers are watching your face or screen.
 * **Environment**: Developed largely on a Chromebook using devboxes. ChatGPT and Google Gemini helped polish the code, but the heart of the project is hand-written.
-* **Teen Humor**: This place was made by middle schoolers, for middle schoolers. Humor varies; if something feels too "sus," you can always hop out of the room.
+* **Teen Humor**: This place was made by middle schoolers, for middle schoolers. Humor varies; if something feels too "sus" or not for you, you can always hop out of the room.
 
 ---
 
