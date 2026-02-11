@@ -1,4 +1,4 @@
-# 🌀 Random Rants + 🌀
+# [![Random Rants +](./rrp-logo.svg)](https://randomrants-plus.onrender.com/)
 
 ### "The page nobody reads, but you should."
 Random Rants + is the goofy, chaotic hangout spot for friends to escape the mundane and enter the world of the internet. Whether you're bored in class or just need a burst of chaos, this is where you belong.
