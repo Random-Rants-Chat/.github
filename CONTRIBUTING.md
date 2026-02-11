@@ -1,36 +1,23 @@
-## ⚠️ Important:
-Please read our [Terms of Use & Privacy Policy](https://randomrants-plus.onrender.com/legal) before using or contributing to [Random Rants +](https://randomrants-plus.onrender.com/).
+# 📢 Random Rants + 
+> The page nobody reads, but you should.
 
-# 🚀 How Can I Help?
-We love community contributions! Whether you're fixing a bug in the WebSocket logic or styling a new notification type, here is how you can get started:
+Random Rants + is the goofy site that lets you hang out with your friends online. Whenever you feel bored, just rant here!
 
-1. Reporting Bugs
-   
-   Check the Issues tab to see if the bug has already been reported.
-   
-   If not, open a new issue. Please include:
-   - Your browser (e.g., Chrome on Chromebook).
-   - Steps to reproduce the bug.
-   - Screenshots of the console if there are errors.
+### ⚠️ Important
+Please read our [**Terms of Use & Privacy Policy**](https://randomrants-plus.onrender.com/legal) before using or contributing.
 
-3. Suggesting Features
-   We want the "chaos" to be fun!
-   If you have an idea for a new room type or a notification sound, open an issue labeled enhancement.
+### 🛠 Things You Can Do
+* **Video & Voice Chat** - Scream loud and make goofy faces.
+* **Screen Sharing** - Fight for the screen!
+* **Soundboard** - Sync meme sounds with your friends.
+* **Shared Painting** - Collaborate on a digital canvas.
 
-3. Pull Requests (PRs)
-   1. Fork the repository.
-   2. Create a Branch for your feature (git checkout -b feature/cool-new-notif).
-   3. Commit your changes with clear messages.
-   4. Push to your fork and open a Pull Request.
+### 🤝 How to Contribute
+We love chaos and new features! If you think something is useful:
+1. Fork the repo.
+2. Add your feature/rant.
+3. Submit a **Pull Request**.
+*Note: Owners can grant "Ownership" permissions for special commands!*
 
-# 🛠️ Technical Guidelines
-
-## UI & Styling
-  - We aim for a clean, accessible look.
-  - Use the existing `elements.js` (located in src/gp2/) helper for creating DOM elements to maintain consistency with the GP2 engine.
-  - LocalStorage: Do not clear LocalStorage in your scripts, as this is where users store their clientSettings.js (themes, volume, etc.).
-
-# ⚖️ Code of Conduct
-- Be kind to fellow ranters.
-- No code that facilitates harassment, spamming, or deanonymizing users.
-- Keep the chaos "controlled"—features should enhance the fun, not break the app for everyone else.
+---
+**Created by:** Gvbvdxx & MOP 3000
