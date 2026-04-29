@@ -17,7 +17,6 @@ We love chaos and new features! If you think something is useful:
 1. Fork the repo.
 2. Add your feature/rant.
 3. Submit a **Pull Request**.
-*Note: Owners can grant "Ownership" permissions for special commands!*
 
 ---
 **Created by:** Gvbvdxx & MOP 3000
