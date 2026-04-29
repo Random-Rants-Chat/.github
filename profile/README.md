@@ -1,10 +1,10 @@
-# [![Random Rants +](./rrp-logo.svg)](https://randomrants-plus.onrender.com/)
+# [![Random Rants +](./rrp-logo.svg)](https://randomrants-plus.gvbvdxx.me/)
 
 ### "The page nobody reads, but you should."
 Random Rants + is the goofy, chaotic hangout spot for friends to escape reality and enter the world of the internet. Whether you're bored in class or just need a burst of chaos, this is where you belong.
 
 > [!IMPORTANT]
-> Please read our [Terms of Use & Privacy Policy](https://randomrants-plus.onrender.com/legal) before using Random Rants +.
+> Please read our [Terms of Use & Privacy Policy](https://randomrants-plus.gvbvdxx.me/legal) before using Random Rants +.
 
 ---
 
@@ -60,5 +60,5 @@ Everyone who signs up gets a profile. It's unlisted but visible when you join a 
 
 ## 📜 History & Credits
 Random Rants + has a long history of evolution.
-* [Read the full History here](https://randomrants-plus.onrender.com/history)
-* [View full Credits here](https://randomrants-plus.onrender.com/credits)
+* [Read the full History here](https://randomrants-plus.gvbvdxx.me/history)
+* [View full Credits here](https://randomrants-plus.gvbvdxx.me/credits)
